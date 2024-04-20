@@ -23,7 +23,7 @@
   <code><a href="https://www.instagram.com/juandavidacevedo69/" title="Instagram Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png"> Instagram</a></code>
 </h5>
 <hr>
-<h2 align="center">🔨Languages & Frameworks🔨</h2>
+<h2 align="center">🔨Languages & others🔨</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/ba85320505494f829ddfee23911329a2505bb388/images/c.svg"></code>
