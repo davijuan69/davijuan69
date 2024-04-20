@@ -13,9 +13,9 @@
   <br>
   💬 soy estudiante universitario con muchas ganas de aprender los distintos lenguajes de programacion
   <br>
-  📫 Cómo contactarme juandavidacevedo137@gmail.com
+  📫 <a href="juandavidacevedo137@gmail.com" target="_black" rel="noreferrer">contactame aqui :]</a>
   <br>
-  ⚡ Dato curioso ¡Soy gracioso!
+  ⚡ Dato curioso XD
   
 </p>
 <h5 align="center">
