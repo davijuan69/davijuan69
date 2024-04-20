@@ -15,7 +15,7 @@
   <br>
   📫 <a href="mailto:juandavidacevedo137@gmail.com" rel="noreferrer">contactame aqui :]</a>
   <br>
-  ⚡ Dato curioso XD
+  ⚡ Dato curioso: XD
   
 </p>
 <h5 align="center">
