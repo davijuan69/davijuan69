@@ -8,14 +8,14 @@
 </h1>
 
 <p align="center">
-  🌱 Hola! Soy puam navi, diseñador grafico de Cubitz. 
+  🌱 Hola!! Soy Puam Navi, estudiante unversitario de la UCAB
   <br>
   <br>
-  💬 soy estudiante universitario con muchas ganas de aprender los distintos lenguajes de programacion
+  💬 soy empleado de cubitz y tengo muchas ganar de conocer los distintos lenguajes para hacer cosas increibles 😀, espero no morir en el intento
   <br>
   📫 <a href="mailto:juandavidacevedo137@gmail.com" rel="noreferrer">contactame aqui :]</a>
   <br>
-  ⚡ Dato curioso: XD
+  ⚡ Dato curioso: Me gustan los juegos de zelda!! 
   
 </p>
 <h5 align="center">
