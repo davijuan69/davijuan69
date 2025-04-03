@@ -11,7 +11,7 @@
   🌱 Hola!! Soy Puam Navi, estudiante unversitario de la UCAB
   <br>
   <br>
-  💬 soy empleado de cubitz y tengo muchas ganar de conocer los distintos lenguajes para hacer cosas increibles 😀, espero no morir en el intento
+  💬 tengo muchas ganar de conocer los distintos lenguajes para hacer cosas increibles 😀, espero no morir en el intento
   <br>
   📫 <a href="mailto:juandavidacevedo137@gmail.com" rel="noreferrer">contactame aqui :]</a>
   <br>
