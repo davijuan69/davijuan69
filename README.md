@@ -8,14 +8,12 @@
 </h1>
 
 <p align="center">
-  🌱 Hola!! Soy Puam Navi, estudiante unversitario de la UCAB
+  🌱 Hola!! Soy Juan David, estudiante unversitario de la UCAB
   <br>
   <br>
-  💬 tengo muchas ganar de conocer los distintos lenguajes para hacer cosas increibles 😀, espero no morir en el intento
+  💬 Desde mis inicios como programador me he dedicado a aprender y mejorar en el diseño UX/UI para darles la mejor experiencia posible al consumidor.
   <br>
-  📫 <a href="mailto:juandavidacevedo137@gmail.com" rel="noreferrer">contactame aqui :]</a>
-  <br>
-  ⚡ Dato curioso: Me gustan los juegos de zelda!! 
+ 
   
 </p>
 <h5 align="center">
