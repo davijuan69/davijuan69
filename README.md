@@ -22,6 +22,14 @@ y bueno aprendiendo de los errores que llego a cometer
 
 <br clear="left"/>
 
+<br>
+
+## contribuciones
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="GitHub Profile 3D Contrib" />
+</p>
+
 
 
 
