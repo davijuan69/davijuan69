@@ -8,8 +8,7 @@
 </h1>
 
 
-<tr>
-<td>
+<img src="/img/Toon Solid Snake.jpg" width="200" align="left"/>
 
 <p>
 desde que empecé a programar me he estado enfocando en mejorar experiencias de usuario para hacerlas más intuitivas, me divierte crear buenas UX y software que facilite la vida de los usuarios.
@@ -17,13 +16,7 @@ desde que empecé a programar me he estado enfocando en mejorar experiencias de 
 y me gusta los juegos de aventura o los competitivos 🥸
 </p>
 
-</td>
-<td>
-
-<img src="/img/Toon Solid Snake.jpg" width="200"/>
-
-</td>
-</tr>
+<br clear="left"/>
 
 
 
