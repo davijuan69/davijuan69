@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/Link - Zelda.gif"/>
+  <img src="img/LinkZelda.gif"/>
 </div>
 
 
@@ -8,7 +8,7 @@
 </h1>
 
 <br>
-<img src="img/Toon Solid Snake.jpg" width="200" align="left"/>
+<img src="img/ToonSolidSnake.jpg" width="200" align="left"/>
 
 <p>
 <br>
@@ -21,6 +21,13 @@ y bueno aprendiendo de los errores que llego a cometer
 </p>
 
 <br clear="left"/>
+
+## contribuciones
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="GitHub Profile 3D Contrib" />
+</p>
+
 
 
 
