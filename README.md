@@ -11,11 +11,11 @@
 <img src="img/ToonSolidSnake.jpg" width="200" align="left"/>
 
 <p>
-Desde que inicié en la programación, me he enfocado en construir experiencias de usuario (UX) intuitivas, fluidas y atractivas. Me gusta transformar el software a uno accesible y sencillo de usar, cuidando el visual y funcional para que la interacción sea natural.
+Desde que inicié en la programación, me he enfocado en construir experiencias de usuario (UX) intuitivas, fluidas y atractivas. Me gusta transformar el software a uno accesible y sencillo de usar, cuidando lo visual y funcional para que la interacción sea natural.
 
-combino el desarrollo de software con principios de diseño UI/UX, buscando que el codigo no sea tan espagueti xd, sino que realmente aporte valor y facilite la vida a las personas. Disfruto colaborar en proyectos donde la calidad técnica y la satisfacción del usuario van de la mano.
+Combino el desarrollo de software con principios de diseño UI/UX, buscando que el código no sea tan espagueti xd, sino que realmente aporte valor y facilite la vida a las personas. Disfruto colaborar en proyectos donde la calidad técnica y la satisfacción del usuario vayan de la mano.
 
-y bueno aprendiendo de los errores que llego a cometer
+Todo esto tratando de priorizar el aprender de los fallos para mejorar en el futuro los proyectos
 </p>
 
 <br clear="left"/>
